@@ -77,8 +77,6 @@ end
 ```
 ## Referências Bilbiográficas
 
- - [Link do Desafio de projeto](## Referências Bilbiográficas
-
  - [Link do Desafio de projeto](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo)
 
 ## Autora
